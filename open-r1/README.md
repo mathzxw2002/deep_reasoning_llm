@@ -8,3 +8,7 @@ https://github.com/huggingface/open-r1
 pip install -e ".[dev]"
 
 ![img_v3_02l6_60f6141e-290a-443c-9997-6e141122db4m](https://github.com/user-attachments/assets/15d4baff-9eb2-402f-991f-306c75493eba)
+
+
+#run openr1 container, using host directory "/root/deepr1" as a volume "voldsr1", and increasing shm size to 16g. test is the docker image name.
+nvidia-docker run -it -v /root/deepr1:/voldsr1 --shm-size=16g test1
