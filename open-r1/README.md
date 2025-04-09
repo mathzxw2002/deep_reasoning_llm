@@ -11,4 +11,5 @@ pip install -e ".[dev]"
 
 
 #run openr1 container, using host directory "/root/deepr1" as a volume "voldsr1", and increasing shm size to 16g. test is the docker image name.
+
 nvidia-docker run -it -v /root/deepr1:/voldsr1 --shm-size=16g test1
