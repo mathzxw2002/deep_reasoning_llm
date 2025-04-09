@@ -3,7 +3,7 @@
 https://github.com/huggingface/open-r1
 
 
-#install open-r1 and dependencies
+#revise dependencies to the corresponding version and install open-r1 by 
 
 pip install -e ".[dev]"
 
