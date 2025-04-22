@@ -14,6 +14,7 @@ llm = LLM(
 #"enforce_eager": true
 #https://docs.vllm.ai/en/latest/performance/optimization.html
 #https://docs.vllm.ai/en/latest/serving/engine_args.html
+#https://github.com/vllm-project/vllm/issues/6641
 sampling_params = SamplingParams(
     temperature=0.8,
     top_p=0.9,
