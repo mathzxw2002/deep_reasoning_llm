@@ -15,6 +15,10 @@ llm = LLM(
 #https://docs.vllm.ai/en/latest/performance/optimization.html
 #https://docs.vllm.ai/en/latest/serving/engine_args.html
 #https://github.com/vllm-project/vllm/issues/6641
+#https://blog.csdn.net/xnuscd/article/details/143232080
+#https://blog.csdn.net/2401_85343303/article/details/147052628
+#https://zhuanlan.zhihu.com/p/3722264996
+#
 sampling_params = SamplingParams(
     temperature=0.8,
     top_p=0.9,
