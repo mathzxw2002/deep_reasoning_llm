@@ -9,6 +9,9 @@ llm = LLM(
     limit_mm_per_prompt={"image": 0, "video": 0}, dtype="half", tensor_parallel_size=8, enforce_eager=True, gpu_memory_utilization=0.95,
 )
 
+#"max_num_seqs": 256,
+#"max_model_len": 8192,
+#"enforce_eager": true
 sampling_params = SamplingParams(
     temperature=0.8,
     top_p=0.9,
