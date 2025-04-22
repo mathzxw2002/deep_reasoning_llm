@@ -17,7 +17,7 @@ llm = LLM(
 #https://github.com/vllm-project/vllm/issues/6641
 #https://blog.csdn.net/xnuscd/article/details/143232080
 #https://blog.csdn.net/2401_85343303/article/details/147052628
-#https://zhuanlan.zhihu.com/p/3722264996
+#https://zhuanlan.zhihu.com/p/3722264996 （IMPORTANT）
 #
 sampling_params = SamplingParams(
     temperature=0.8,
