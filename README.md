@@ -14,6 +14,7 @@ https://github.com/hiyouga/LLaMA-Factory
 
 ## ms-swift
 https://github.com/modelscope/ms-swift
+<img width="2048" height="544" alt="image" src="https://github.com/user-attachments/assets/2533eade-9d7f-4253-b8a9-62baec8060b4" />
 
 ## unsloth
 
