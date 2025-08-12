@@ -10,6 +10,7 @@ https://www.runoob.com/docker/docker-command-manual.html
 
 ## LLaMA-Factory
 https://github.com/hiyouga/LLaMA-Factory
+<img width="1400" height="400" alt="image" src="https://github.com/user-attachments/assets/d07b207b-7882-4de7-a376-f5d155d244a8" />
 
 ## ms-swift
 https://github.com/modelscope/ms-swift
