@@ -40,6 +40,7 @@ https://huggingface.co/blog/smolvlm2
 
 https://github.com/huggingface/smollm
 
+https://github.com/merveenoyan/smol-vision
 
 # RAG
 
