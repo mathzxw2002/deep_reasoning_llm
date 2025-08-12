@@ -27,6 +27,8 @@ Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosyste
 https://huggingface.co/learn/cookbook/en/fine_tuning_vlm_trl
 
 
+https://huggingface.co/blog/vllm-colocate
+
 ## transformers
 <img width="2240" height="780" alt="image" src="https://github.com/user-attachments/assets/75f1917b-3f70-4bb5-9f31-89d5648c5cbc" />
 
