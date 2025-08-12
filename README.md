@@ -17,7 +17,7 @@ https://github.com/modelscope/ms-swift
 
 ## unsloth
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dbdd0369-fee3-4a23-ac7b-a56e836c6be2" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dbdd0369-fee3-4a23-ac7b-a56e836c6be2" />
 
 https://unsloth.ai/
 
