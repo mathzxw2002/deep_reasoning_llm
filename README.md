@@ -44,11 +44,9 @@ https://github.com/huggingface/smollm
 
 ## Vllm
 
-# MCP
-
-
-
 ## ollama
+
+# MCP
 
 ## 
 
