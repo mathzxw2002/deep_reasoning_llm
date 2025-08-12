@@ -6,13 +6,6 @@ https://www.runoob.com/docker/docker-command-manual.html
 
 # TODO
 
-
-# https://huggingface.co/blog/smollm3
-
-# https://huggingface.co/blog/smolvlm2
-
-# https://github.com/huggingface/smollm
-
 # LLM Training Framework
 
 ## LLaMA-Factory
@@ -36,5 +29,11 @@ https://huggingface.co/learn/cookbook/en/fine_tuning_vlm_trl
 
 ## transformers
 https://github.com/huggingface/transformers
+
+https://huggingface.co/blog/smollm3
+
+https://huggingface.co/blog/smolvlm2
+
+https://github.com/huggingface/smollm
 
 
