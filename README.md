@@ -44,5 +44,7 @@ https://github.com/huggingface/smollm
 
 ## Vllm
 
+## ollama
+
 ## 
 
