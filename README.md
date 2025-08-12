@@ -28,7 +28,7 @@ https://huggingface.co/learn/cookbook/en/fine_tuning_vlm_trl
 
 
 ## transformers
-<img width="224" height="78" alt="image" src="https://github.com/user-attachments/assets/75f1917b-3f70-4bb5-9f31-89d5648c5cbc" />
+<img width="2240" height="780" alt="image" src="https://github.com/user-attachments/assets/75f1917b-3f70-4bb5-9f31-89d5648c5cbc" />
 
 https://github.com/huggingface/transformers
 
