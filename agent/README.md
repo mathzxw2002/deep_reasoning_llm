@@ -24,3 +24,9 @@ AI assistants are often embedded in the product being used. A key characteristic
 
 <img width="1967" height="816" alt="image" src="https://github.com/user-attachments/assets/c699dd97-f595-465d-89e3-ec4cc356f8c9" />
 
+# WebAgent
+
+https://github.com/Alibaba-NLP/WebAgent
+
+<img width="3134" height="1280" alt="image" src="https://github.com/user-attachments/assets/236eb5d3-a095-41f2-8ae7-53123f2c6eaa" />
+
