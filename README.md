@@ -57,6 +57,9 @@ https://github.com/merveenoyan/smol-vision
 
 ## ollama
 
+## https://github.com/NVIDIA/TensorRT-LLM
+
+
 # MCP
 
 ## 
