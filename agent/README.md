@@ -151,6 +151,8 @@ MuleRun - the world largest AI Agent Marketplace!
 
 https://mulerun.com/
 
+<img width="1889" height="991" alt="image" src="https://github.com/user-attachments/assets/c567b97a-7e84-428b-98c3-bec4ec25f00e" />
+
 # Personal Agent
 
 ## M3 Agent
