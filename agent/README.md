@@ -106,6 +106,14 @@ Agentic RAG的应用不局限于单一场景，同样也被应用于医疗保健
 
 #AI创造营# #ai探索计划# #AI学习营# #AI打工人# #热点科普#
 
+# Elysia: agentic RAG framework, Elysia: Building an end-to-end agentic RAG app
+
+Elysia: Building an end-to-end agentic RAG app
+
+https://github.com/weaviate/elysia
+
+<img width="1350" height="900" alt="image" src="https://github.com/user-attachments/assets/0b141f30-4c07-4cca-a474-435370df955a" />
+
 
 
 # Agent Definition from Google
