@@ -130,6 +130,17 @@ https://mulerun.com/
 
 https://github.com/ByteDance-Seed/m3-agent
 
+paper link: https://arxiv.org/abs/2508.09736
+
+@misc{long2025seeing,
+      title={Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory}, 
+      author={Lin Long, Yichen He, Wentao Ye, Yiyuan Pan, Yuan Lin, Hang Li, Junbo Zhao, Wei Li},
+      year={2025},
+      eprint={2508.09736},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
 
 <img width="2477" height="1037" alt="image" src="https://github.com/user-attachments/assets/54fb2c67-ad75-4500-9c68-89442ce33202" />
 
