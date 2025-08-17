@@ -277,3 +277,12 @@ Clone and recreate any website as a modern React app in seconds
 <img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/478a3114-aaf8-443e-af9f-85a070b8c199" />
 
 
+# gabber
+
+https://github.com/gabber-dev/gabber
+
+<img width="1000" height="325" alt="image" src="https://github.com/user-attachments/assets/7129cf0f-a244-452c-98c6-98940e103e66" />
+
+
+Build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs.
+
