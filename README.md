@@ -99,7 +99,12 @@ Supercharge Your LLM with the Fastest KV Cache Layer
 
 https://github.com/LMCache/LMCache
 
-<img width="600" height="291" alt="image" src="https://github.com/user-attachments/assets/253a743b-416b-4f54-ae71-b1b1a6cd2cac" />
+<img width="3630" height="1480" alt="image" src="https://github.com/user-attachments/assets/1a984910-5c1d-49dd-bccf-69f35f3cab77" />
+
+https://github.com/LMCache/demo/tree/master/demo4-compare-with-vllm
+
+<img width="1696" height="601" alt="image" src="https://github.com/user-attachments/assets/14ee6a14-d0c0-417a-b05b-5d743b1579c4" />
+
 
 
 # World Model
@@ -112,6 +117,15 @@ https://github.com/LMCache/LMCache
 
 ## Gemma-3-270M
 
+## Liquid AI
+
+https://www.liquid.ai/
+
+https://huggingface.co/LiquidAI/LFM2-VL-1.6B
+
+Introducing LFM2: The Fastest On-Device Foundation Models on the Market
+
+<img width="2391" height="1274" alt="image" src="https://github.com/user-attachments/assets/7ceebe08-5669-4aba-a7ad-d5e6497731dd" />
 
 
 
