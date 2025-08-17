@@ -155,6 +155,79 @@ AI is Not Just About Productivity. It's About Relationships.
 <img width="2240" height="1256" alt="image" src="https://github.com/user-attachments/assets/96286d1c-3487-469f-984b-f81b3477fdf0" />
 
 
+## MemU
+
+https://memu.pro/
+
+MemU is a agentic memory layer for LLM applications, specifically designed for AI companions
+
+https://github.com/NevaMind-AI/memU
+
+
+<img width="1836" height="1133" alt="image" src="https://github.com/user-attachments/assets/907d8880-6e87-4274-9776-b97bf20f50ed" />
+
+
+## Agent Memory vs. RAG
+
+Agent 记忆、支付与身份：AI 未来三大基础设施全面剖析，洞悉十年核心机遇
+
+一、Agent Memory：超越 RAG，打造智能上下文管理中枢  
+• 本质区分：RAG 是“检索式知识库”，适合静态信息调用；Memory 是“动态学习系统”，实现个性化、持续进化的用户与 Agent 记忆。  
+• 价值驱动：突破大模型上下文限制，记忆系统既能显著降低成本（节省约70%计算资源），又提升交互体验和智能水平。  
+• 记忆分类：  
+  - User Memory：捕捉用户性格、偏好，实现精准画像与个性化服务；  
+  - Agent Memory：积累自身工作经验与SOP，提升执行效率与决策质量。  
+• 主流技术路径及特点：  
+  1. 阶段性总结——定期压缩对话，节省Token，但信息丢失风险存在；  
+  2. RAG 式检索——精准召回相关内容，适合长期精确记忆，复杂度高；  
+  3. 记忆补丁——实时提取关键信息，确保长期重要记忆，成本较高；  
+  4. 分层记忆——模拟人类多层记忆结构，平衡即时与长期记忆复杂度；  
+  5. 图谱记忆——构建语义关系网络，支持深度推理，技术门槛较高。  
+• 领先创业者：Mem0（轻量混合存储）、Letta（AI自主管理记忆）、Cognee（知识图谱驱动）、Zep（时序图谱）、Memobase（用户画像定制）、Memories.ai（视觉记忆）。  
+• 深层启示：未来记忆系统需具备高度灵活性、多模态融合与自主推理能力，成为AI“Context”资产的核心入口，推动 Agent 持续自我进化。
+
+二、Agent Payment：从信用卡到稳定币，构建AI经济新引擎  
+• 三阶段演进：  
+  1. 信用卡支付——现有体系，依赖人工审核，自动化受限；  
+  2. 虚拟卡支付——中间过渡，提升自动化和安全性；  
+  3. 稳定币支付——未来趋势，支持即时、低成本、跨境微交易。  
+• 核心挑战：  
+  - 基础设施缺乏Agent友好API，反机器人机制阻碍自动交易；  
+  - 合规难题，尤其信用卡PCI规范与责任归属模糊。  
+• 未来支付形态：  
+  - C2B（消费者对企业）支付仍存在，但频次低，价值高；  
+  - M2M（机器对机器）支付将催生数万亿级微交易市场，动态定价与自动协商成为标配。  
+• 主要玩家：  
+  - 巨头如Stripe、Visa、Mastercard布局Agent支付；  
+  - 平台如Perplexity整合商家直连支付流程；  
+  - 创业公司Skyfire（AI原生银行卡网络）、Nevermined（灵活计费基础设施）、Payman AI（Agent付人类工资）、Nekuda（Agent专属Visa解决方案）引领创新。  
+• 启示：AI时代支付将重构价值流通规则，初创企业以创新灵活性切入，巨头凭借合规与生态优势规模化，二者共生共荣。
+
+三、Agent Auth：数字护照铸就信任基石，驱动AI安全生态  
+• 定义与核心组成：认证（确认Agent身份）、授权（细粒度权限管理）、审计（行为全记录），确保Agent行为安全可追踪。  
+• 客户分布：从个人开发者快速上手，到金融医疗等高安全要求的企业级用户。  
+• 竞争格局：  
+  - 传统IAM巨头（Okta、Ping Identity等）拓展Agent领域；  
+  - 云厂商（Microsoft、AWS、Google）集成生态提供身份服务；  
+  - AI-native初创ANON定位“数字护照中心”，实现无密码安全模拟登录和全程行为留痕。  
+• 市场驱动：  
+  - 双边市场特征，先服务Agent开发者建立网络效应，再拓展企业客户；  
+  - 监管催化（欧盟AI Act强制日志审计）促使市场快速成熟。  
+• 未来潜力：市场规模有望超传统IAM，成为AI安全与保险生态入口，通过行为数据驱动风险评估与转移。  
+• 创业风险：巨头品牌和渠道优势压制，产品需以差异化和生态深度突围。  
+• 发展路径：开放协议或重塑身份与支付基础设施，价值更多流向协议层之上的创新应用。
+
+四、跨领域共振与未来展望  
+• 记忆、支付与身份三者构成AI Agent的核心基础设施，缺一不可，共同支撑智能代理的安全、高效、可信运行。  
+• 记忆提供“Context”资产管理与持续学习能力，支付保障价值流转与经济激励，身份铸造信任与合规保障。  
+• AI基础设施领域仍处早期，创业者需深耕具体应用场景，精准定位产品边界，具备快速迭代和转型能力。  
+• 随着模型上下文窗口增长和复杂任务驱动，记忆管理非但不会被边缘化，反而成为新的学科和竞争焦点。  
+• 支付和身份领域的创新不仅是技术升级，更是对现有生态的重塑，机会巨大但风险同样不可忽视。   
+
+详见👉 yveh7jntg7.feishu.cn/wiki/UicmwNMjXiJOeAkqhUbcTAP3nIb 
+#人工智能# #AIAgent# #智能记忆# #AI支付# #身份认证# #数字信任# #AI基础设施#
+
+
 # ScreenCoder
 ScreenCoder — Turn any UI screenshot into clean, editable HTML/CSS with full control. Fast, accurate, and easy to customize.
 
