@@ -59,6 +59,9 @@ https://github.com/merveenoyan/smol-vision
 
 ## https://github.com/NVIDIA/TensorRT-LLM
 
+## optimum onnx
+https://github.com/huggingface/optimum
+
 
 # MCP
 
