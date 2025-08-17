@@ -168,5 +168,12 @@ ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Mo
 https://github.com/leigest519/ScreenCoder
 
 
+# Open Lovable
+
+https://github.com/mendableai/open-lovable
+
+Clone and recreate any website as a modern React app in seconds
+
+<img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/478a3114-aaf8-443e-af9f-85a070b8c199" />
 
 
