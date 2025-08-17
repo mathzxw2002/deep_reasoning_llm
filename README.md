@@ -5,7 +5,7 @@ https://www.runoob.com/docker/docker-command-manual.html
 
 
 # TODO
-- [ ] Llama Nemotron VLM Dataset V1  https://huggingface.co/blog/nvidia/nvidia-vlm-dataset-v1
+- [ ] Llama Nemotron VLM Dataset V1:( https://huggingface.co/blog/nvidia/nvidia-vlm-dataset-v1), Model: https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1
 
 # LLM Training Framework
 
