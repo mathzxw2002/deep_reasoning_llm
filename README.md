@@ -93,6 +93,15 @@ https://github.com/Tencent/AngelSlim
 
 https://lmcache.ai/
 
+Accelerating the Future of AI, One Cache at a Time
+
+Supercharge Your LLM with the Fastest KV Cache Layer 
+
+https://github.com/LMCache/LMCache
+
+<img width="600" height="291" alt="image" src="https://github.com/user-attachments/assets/253a743b-416b-4f54-ae71-b1b1a6cd2cac" />
+
+
 # World Model
 
 ## Genie 3
