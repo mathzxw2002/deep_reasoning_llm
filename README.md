@@ -9,6 +9,7 @@ https://www.runoob.com/docker/docker-command-manual.html
 - [ ] Multimodel Reasoning, e.g. GLM-4.5V
 - [ ] Cosmos-Reason1 (https://github.com/nvidia-cosmos/cosmos-reason1) Cosmos-Reason1 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.
 - [ ] Code w/ Claude Developer Conference (Claude Code https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi )
+- [ ] https://github.com/ShaohonChen/Qwen3-SmVL
 
 # LLM Training Framework
 
