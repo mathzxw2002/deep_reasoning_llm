@@ -124,3 +124,25 @@ MuleRun - the world largest AI Agent Marketplace!
 
 https://mulerun.com/
 
+# Personal Agent
+
+## M3 Agent
+
+https://github.com/ByteDance-Seed/m3-agent
+
+
+<img width="2477" height="1037" alt="image" src="https://github.com/user-attachments/assets/54fb2c67-ad75-4500-9c68-89442ce33202" />
+
+
+## macaron, World's first personal AI agent
+
+https://macaron.im/
+
+
+AI is Not Just About Productivity. It's About Relationships.
+
+<img width="2240" height="1256" alt="image" src="https://github.com/user-attachments/assets/96286d1c-3487-469f-984b-f81b3477fdf0" />
+
+
+
+
