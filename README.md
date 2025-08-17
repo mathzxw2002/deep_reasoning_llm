@@ -62,5 +62,9 @@ https://github.com/merveenoyan/smol-vision
 
 # MCP
 
-## 
+## Model compression toolkit
+
+https://github.com/Tencent/AngelSlim
+
+
 
