@@ -277,7 +277,7 @@ Clone and recreate any website as a modern React app in seconds
 <img width="480" height="292" alt="image" src="https://github.com/user-attachments/assets/478a3114-aaf8-443e-af9f-85a070b8c199" />
 
 
-# gabber
+# gabber (https://gabber.dev/)
 
 https://github.com/gabber-dev/gabber
 
