@@ -6,6 +6,8 @@ https://www.runoob.com/docker/docker-command-manual.html
 
 # TODO
 - [ ] Llama Nemotron VLM Dataset V1:( https://huggingface.co/blog/nvidia/nvidia-vlm-dataset-v1), Model: https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1
+- [ ] Multimodel Reasoning, e.g. GLM-4.5V
+- [ ] Cosmos-Reason1 (https://github.com/nvidia-cosmos/cosmos-reason1) Cosmos-Reason1 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.
 
 # LLM Training Framework
 
@@ -65,9 +67,42 @@ https://github.com/huggingface/optimum
 
 # MCP
 
+## FastAPI-MCP
+https://github.com/tadata-org/fastapi_mcp
+
+About
+Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+
+fastapi-mcp.tadata.com/
+
+## Windows-MCP
+
+## Pixelle-MCP
+
+An Open-Source Multimodal AIGC Solution based on ComfyUI + MCP + LLM https://pixelle.ai
+https://github.com/AIDC-AI/Pixelle-MCP
+
 ## Model compression toolkit
 
 https://github.com/Tencent/AngelSlim
+
+
+
+## LLM Cache
+
+https://lmcache.ai/
+
+# World Model
+
+## Genie 3
+
+## Skywork Matrix-Game 2.0
+
+# Model on Device
+
+## Gemma-3-270M
+
+
 
 
 
