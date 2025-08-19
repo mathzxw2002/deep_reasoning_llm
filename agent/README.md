@@ -203,6 +203,14 @@ https://github.com/NevaMind-AI/memU
 
 <img width="1836" height="1133" alt="image" src="https://github.com/user-attachments/assets/907d8880-6e87-4274-9776-b97bf20f50ed" />
 
+## mirix
+
+https://mirix.io/
+
+https://github.com/Mirix-AI/MIRIX
+
+<img width="1020" height="412" alt="image" src="https://github.com/user-attachments/assets/e8d8e5e1-e1aa-47c2-bea8-5917436778e1" />
+
 
 ## Agent Memory vs. RAG
 
@@ -295,4 +303,7 @@ https://github.com/gabber-dev/gabber
 
 
 Build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs.
+
+
+
 
