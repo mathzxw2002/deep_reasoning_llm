@@ -306,4 +306,11 @@ Build AI applications that can see, hear, and speak using your screens, micropho
 
 
 
+<img width="696" height="844" alt="image" src="https://github.com/user-attachments/assets/c2fc16f9-a272-447a-aa20-cd0f46fe8d39" />
+
+https://zhuanlan.zhihu.com/p/657937696
+
+
+
+
 
