@@ -131,3 +131,9 @@ Introducing LFM2: The Fastest On-Device Foundation Models on the Market
 
 
 
+big vision model
+
+https://www.hfuu.edu.cn/CVPR/ce/98/c10439a118424/page.htm
+
+
+
