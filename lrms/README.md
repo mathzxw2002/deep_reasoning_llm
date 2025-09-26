@@ -8,3 +8,9 @@ RL for Large Reasoning Models (LRMs)
 
 https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs
 
+
+1, Cosmos-Reason1 models 
+
+Cosmos-Reason1 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.
+
+https://github.com/nvidia-cosmos/cosmos-reason1
