@@ -40,6 +40,9 @@ OpenAI releases their first open source LLM in six years
 ## The Big LLM Architecture Comparison
 From DeepSeek-V3 to gpt-oss: A Look At Modern LLM Architecture Design
 
+https://www.youtube.com/watch?v=rNlULI-zGcw
+
+
 https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 
 
