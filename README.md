@@ -133,6 +133,9 @@ https://arxiv.org/pdf/2509.09737v1
 
 Introduction to World Models: V-JEPA 2 ：https://www.youtube.com/watch?v=LY_J9-7BjOc
 
+
+<img width="2386" height="1293" alt="image" src="https://github.com/user-attachments/assets/23caff98-2e16-41eb-9ea5-6763a0dfae4f" />
+
 ## Genie 3
 
 ## Skywork Matrix-Game 2.0
