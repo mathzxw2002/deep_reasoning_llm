@@ -110,6 +110,17 @@ https://github.com/LMCache/demo/tree/master/demo4-compare-with-vllm
 
 # World Model
 
+## V-JPPA
+https://ai.meta.com/vjepa/
+
+INTRODUCING V-JEPA 2
+
+A self-supervised foundation world model Video Joint Embedding Predictive Architecture 2 (V-JEPA 2) is the first world model trained on video that achieves state-of-the-art visual understanding and prediction, enabling zero-shot robot control in new environments.
+
+
+
+
+
 ## Genie 3
 
 ## Skywork Matrix-Game 2.0
