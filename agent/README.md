@@ -1,3 +1,17 @@
+# coze studio
+
+https://github.com/coze-dev/coze-studio
+
+An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+
+<img width="2025" height="768" alt="image" src="https://github.com/user-attachments/assets/318b996a-9b24-426f-852c-ca8731956073" />
+
+
+
+
+
+
+
 # 2025 AI Agents 发展方向
 
 📌 自主检索增强生成 (Agentic RAG)
