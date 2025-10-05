@@ -136,6 +136,14 @@ Introduction to World Models: V-JEPA 2 ：https://www.youtube.com/watch?v=LY_J9-
 
 <img width="2386" height="1293" alt="image" src="https://github.com/user-attachments/assets/23caff98-2e16-41eb-9ea5-6763a0dfae4f" />
 
+
+https://video-zero-shot.github.io/
+
+Video models are zero-shot learners and reasoners
+
+
+<img width="1830" height="651" alt="image" src="https://github.com/user-attachments/assets/3b388e1a-1fc3-469e-82fe-c4ef9be43f16" />
+
 ## Genie 3
 
 ## Skywork Matrix-Game 2.0
