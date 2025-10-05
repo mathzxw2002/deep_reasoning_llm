@@ -43,7 +43,4 @@ From DeepSeek-V3 to gpt-oss: A Look At Modern LLM Architecture Design
 https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 
 
-
-
-![Uploading image.png…]()
-
+<img width="3000" height="2093" alt="image" src="https://github.com/user-attachments/assets/160c4c9c-1adb-4c05-ad01-b03df98fc2a8" />
