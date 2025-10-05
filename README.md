@@ -131,7 +131,7 @@ https://arxiv.org/pdf/2509.09737v1
 
 <img width="1199" height="1140" alt="image" src="https://github.com/user-attachments/assets/d8330feb-0aad-446f-ab3d-ecaee192f010" />
 
-
+Introduction to World Models: V-JEPA 2 ：https://www.youtube.com/watch?v=LY_J9-7BjOc
 
 ## Genie 3
 
