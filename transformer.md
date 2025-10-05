@@ -27,3 +27,23 @@ https://www.llm-book.com/
 The Agentic AI Bible: The Complete and Up-to-Date Guide to Design, Build, and Scale Goal-Driven, LLM-Powered Agents that Think, Execute and Evolve
 
 <img width="1000" height="1293" alt="image" src="https://github.com/user-attachments/assets/09644cd8-9e05-4740-a042-3c4e8729662c" />
+
+
+https://newsletter.languagemodels.co/
+
+The Illustrated GPT-OSS
+OpenAI releases their first open source LLM in six years
+
+<img width="2210" height="1648" alt="image" src="https://github.com/user-attachments/assets/69c7ae8b-ecf1-42fe-ab2f-a47d6662fa0e" />
+
+
+## The Big LLM Architecture Comparison
+From DeepSeek-V3 to gpt-oss: A Look At Modern LLM Architecture Design
+
+https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+
+
+
+
+![Uploading image.png…]()
+
