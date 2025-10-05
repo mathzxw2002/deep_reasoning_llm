@@ -58,4 +58,14 @@ RWKV: Reinventing RNNs for the Transformer Era
 
 <img width="1106" height="1214" alt="image" src="https://github.com/user-attachments/assets/f233cf8c-bf8b-4c17-bf70-dfb6b4abe34c" />
 
-## 
+## Ring Attention - Pytorch
+
+<img width="1358" height="1072" alt="image" src="https://github.com/user-attachments/assets/dbb2ac3d-b80b-4edc-9578-3949851c07f4" />
+
+
+## Flash Attention
+
+## RoPE
+
+https://www.youtube.com/watch?v=bhrcnx8UOyY
+
