@@ -47,3 +47,15 @@ https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 
 
 <img width="3000" height="2093" alt="image" src="https://github.com/user-attachments/assets/160c4c9c-1adb-4c05-ad01-b03df98fc2a8" />
+
+
+
+##  RWKV
+https://arxiv.org/pdf/2305.13048
+
+
+RWKV: Reinventing RNNs for the Transformer Era
+
+<img width="1106" height="1214" alt="image" src="https://github.com/user-attachments/assets/f233cf8c-bf8b-4c17-bf70-dfb6b4abe34c" />
+
+## 
