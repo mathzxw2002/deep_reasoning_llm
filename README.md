@@ -118,6 +118,9 @@ INTRODUCING V-JEPA 2
 A self-supervised foundation world model Video Joint Embedding Predictive Architecture 2 (V-JEPA 2) is the first world model trained on video that achieves state-of-the-art visual understanding and prediction, enabling zero-shot robot control in new environments.
 
 
+https://learnopencv.com/v-jepa-2-meta-world-model-robotics-guide/
+
+<img width="1739" height="703" alt="image" src="https://github.com/user-attachments/assets/8ba31f21-82bf-4396-864d-54029c5f69dc" />
 
 
 
