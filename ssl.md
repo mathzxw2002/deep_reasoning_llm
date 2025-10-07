@@ -16,6 +16,34 @@ https://all-things-vits.github.io/atv/
 
 https://www.youtube.com/watch?v=ma3NYVo8Im0
 
+# CVPR Tutorials
+
+https://vlp-tutorial.github.io/
+
+https://cvpr.thecvf.com/virtual/2025/events/tutorial
+
+
+https://vision-x-nyu.github.io/scalable-vision-cvpr2025/
+
+Scalable Generative Models in Computer Vision
+
+https://vision-x-nyu.github.io/scalable-vision-cvpr2025/
+
+<img width="5142" height="1287" alt="image" src="https://github.com/user-attachments/assets/631bd26a-ae6e-4cec-9e2f-cc89ea21053e" />
+
+
+<img width="1541" height="986" alt="image" src="https://github.com/user-attachments/assets/1912f9bb-18bc-42d0-b940-75927806d85d" />
+
+
+https://cvpr.thecvf.com/virtual/2025/tutorial/35904
+
+https://youtu.be/jPAM0yfTrNw
+
+
+Recent Advances in Vision Foundation Models
+CVPR 2025 Tutorial on "Recent Advances in Vision Foundation Models"
+
+https://vlp-tutorial.github.io/2024/index.html
 
 
 # Table of Papers
