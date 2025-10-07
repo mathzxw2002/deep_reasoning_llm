@@ -8,6 +8,17 @@ https://github.com/google-research/vision_transformer
 https://sites.google.com/view/xzhai
 
 
+# Recent Advances in Vision Foundation Models
+
+## CVPR 2024 https://vlp-tutorial.github.io/2024/index.html
+
+<img width="1746" height="894" alt="image" src="https://github.com/user-attachments/assets/5c215d5c-cbb2-4ffe-b4c0-b6a90059cf5c" />
+
+
+## CVPR 2025 Tutorial on "Recent Advances in Vision Foundation Models" (https://vlp-tutorial.github.io/)
+
+<img width="1751" height="598" alt="image" src="https://github.com/user-attachments/assets/24744e47-632e-4346-8b10-6e849f019523" />
+
 
 # All Things ViTs: Understanding and Interpreting Attention in Vision (CVPR'23 tutorial)
 
