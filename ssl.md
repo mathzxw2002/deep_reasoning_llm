@@ -20,4 +20,4 @@ https://sites.google.com/view/xzhai
 | BLIP | BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | https://arxiv.org/pdf/2201.12086 | <img width="1765" height="992" alt="image" src="https://github.com/user-attachments/assets/744e7084-37eb-443b-8511-92c295be584e" /> |  |
 | BLIP2 | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | https://arxiv.org/pdf/2301.12597 | <img width="2472" height="1130" alt="image" src="https://github.com/user-attachments/assets/7cb45b5d-7832-4e9d-9193-97f33b08ef89" /> | |
 | SimCLR | A Simple Framework for Contrastive Learning of Visual Representations, https://github.com/google-research/simclr| https://arxiv.org/pdf/2002.05709 | | |
-| | | | | |
+| MAE | Masked Autoencoders Are Scalable Vision Learners | https://arxiv.org/pdf/2111.06377 | <img width="1023" height="939" alt="image" src="https://github.com/user-attachments/assets/86a72ffa-be46-417f-9ec4-6bf2c3324f3a" /> | |
