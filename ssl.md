@@ -16,6 +16,10 @@ https://all-things-vits.github.io/atv/
 
 https://www.youtube.com/watch?v=ma3NYVo8Im0
 
+https://drive.google.com/file/d/10NaQNVybucl8i2Or0iA_DC_NWkhs_IgV/view
+
+
+
 # CVPR Tutorials (https://cvpr.thecvf.com/virtual/2025/events/tutorial)
 
 https://vlp-tutorial.github.io/
