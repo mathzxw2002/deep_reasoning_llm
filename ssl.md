@@ -46,6 +46,10 @@ CVPR 2025 Tutorial on "Recent Advances in Vision Foundation Models"
 https://vlp-tutorial.github.io/2024/index.html
 
 
+## From Video Generation to World Model (https://world-model-tutorial.github.io/)
+
+
+
 # Table of Papers
 
 | Paper Title  | Paper Title  | Arxiv Link | Arxiv Link | Arxiv Link |
