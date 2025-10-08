@@ -31,6 +31,7 @@ https://sites.google.com/view/xzhai
 
 <img width="1746" height="894" alt="image" src="https://github.com/user-attachments/assets/5c215d5c-cbb2-4ffe-b4c0-b6a90059cf5c" />
 
+https://vlp-tutorial.github.io/slides/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf
 
 ## CVPR 2025 Tutorial on "Recent Advances in Vision Foundation Models" (https://vlp-tutorial.github.io/)
 
