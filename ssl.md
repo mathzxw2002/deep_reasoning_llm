@@ -1,9 +1,11 @@
 
 
-CVPR 2025 
+# CVPR 2025 
 https://cvpr.thecvf.com/Conferences/2025
 
 
+# TUM AI Lecture Series - The multimodal future: Why visual representation still matters (Saining Xie)
+https://www.youtube.com/watch?v=hnu-mRLebhc
 
 
 
