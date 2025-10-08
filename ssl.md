@@ -4,7 +4,7 @@ Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos
 
 https://mega-sam.github.io/
 
-![Uploading image.png…]()
+<img width="836" height="715" alt="image" src="https://github.com/user-attachments/assets/d73e629c-e20d-4580-9d09-fb731e6517b2" />
 
 
 # CVPR 2025 
