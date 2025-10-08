@@ -1,5 +1,12 @@
 
 
+CVPR 2025 
+https://cvpr.thecvf.com/Conferences/2025
+
+
+
+
+
 https://github.com/google-research/big_vision
 
 
