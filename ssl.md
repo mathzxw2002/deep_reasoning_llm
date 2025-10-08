@@ -43,7 +43,8 @@ https://drive.google.com/file/d/10NaQNVybucl8i2Or0iA_DC_NWkhs_IgV/view
 # Gemini Robotics, Bringing AI to the Physical World
 <img width="1859" height="570" alt="image" src="https://github.com/user-attachments/assets/ad30bc5d-bf9f-4f88-ae43-918d851e9d52" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o38k1k7f9Hk" title="2025 CVPR Sunday Keynote   Gemini Robotics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/o38k1k7f9Hk
+
 
 # CVPR Tutorials (https://cvpr.thecvf.com/virtual/2025/events/tutorial)
 
