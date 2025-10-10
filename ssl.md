@@ -32,6 +32,8 @@ https://sites.google.com/view/xzhai
 ## Scalable Generative Models in Computer Vision
 https://www.youtube.com/watch?v=jPAM0yfTrNw
 
+<img width="1588" height="890" alt="image" src="https://github.com/user-attachments/assets/8dd38d9d-beda-43fe-8498-430c37f630c0" />
+
 
 <img width="1746" height="894" alt="image" src="https://github.com/user-attachments/assets/5c215d5c-cbb2-4ffe-b4c0-b6a90059cf5c" />
 
