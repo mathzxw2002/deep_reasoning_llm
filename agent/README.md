@@ -1,3 +1,12 @@
+
+# RAG vs. Agentic RAG
+
+
+<img width="640" height="748" alt="image" src="https://github.com/user-attachments/assets/8a700346-371b-47fe-a991-463e35ceff3a" />
+
+
+
+
 # coze studio
 
 https://github.com/coze-dev/coze-studio
