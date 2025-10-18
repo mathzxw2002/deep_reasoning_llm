@@ -7,7 +7,7 @@ https://www.philschmid.de/agents-2.0-deep-agents
 
 A Deep Agent Flow
 
-![Uploading image.png…]()
+<img width="3459" height="1836" alt="image" src="https://github.com/user-attachments/assets/f8853eff-32ef-431f-8895-00031cb6306a" />
 
 
 # RAG vs. Agentic RAG
