@@ -1,4 +1,24 @@
 
+# Finetune 
+
+## Unsloth
+Train your own model with Unsloth, an open-source framework for LLM fine-tuning and reinforcement learning.
+
+At Unsloth, our mission is to make AI as accurate and accessible as possible. Train, run, evaluate and save gpt-oss, Llama, DeepSeek, TTS, Qwen, Mistral, Gemma LLMs 2x faster with 70% less VRAM.
+
+Our docs will guide you through running & training your own model locally.
+
+https://docs.unsloth.ai/
+
+https://github.com/unslothai/unsloth
+
+<img width="3194" height="992" alt="image" src="https://github.com/user-attachments/assets/77cc39b1-ffa2-4560-b2bc-211107be2952" />
+
+https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning
+
+
+
+
 # Inference 
 
 ## huggingface optimum
