@@ -15,3 +15,14 @@ https://github.com/RWKV/rwkv.cpp
 https://bentoml.com/llm/getting-started/llm-quantization
 
 <img width="1224" height="755" alt="image" src="https://github.com/user-attachments/assets/45ab49d8-cce2-4c39-8c57-41b8913fda92" />
+
+
+## AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+
+<img width="2016" height="462" alt="image" src="https://github.com/user-attachments/assets/9601966e-0180-4388-bf2b-68d93b75d06e" />
+
+
+https://github.com/mit-han-lab/llm-awq
+
+
+## 
