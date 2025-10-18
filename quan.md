@@ -67,6 +67,26 @@ https://medium.com/@siddharth.vij10/llm-quantization-gptq-qat-awq-gguf-ggml-ptq-
 
 ## bitsandbytes
 
+https://github.com/bitsandbytes-foundation/bitsandbytes
+
+Accessible large language models via k-bit quantization for PyTorch.
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/194c1e7a-9428-4765-acd5-5543047e3579" />
+
+bitsandbytes enables accessible large language models via k-bit quantization for PyTorch. We provide three main features for dramatically reducing memory consumption for inference and training:
+
+8-bit optimizers uses block-wise quantization to maintain 32-bit performance at a small fraction of the memory cost.
+LLM.int8() or 8-bit quantization enables large language model inference with only half the required memory and without any performance degradation. This method is based on vector-wise quantization to quantize most features to 8-bits and separately treating outliers with 16-bit matrix multiplication.
+QLoRA or 4-bit quantization enables large language model training with several memory-saving techniques that don't compromise performance. This method quantizes a model to 4-bits and inserts a small set of trainable low-rank adaptation (LoRA) weights to allow training.
+The library includes quantization primitives for 8-bit & 4-bit operations, through bitsandbytes.nn.Linear8bitLt and bitsandbytes.nn.Linear4bit and 8-bit optimizers through bitsandbytes.optim module.
+
+<img width="1166" height="1223" alt="image" src="https://github.com/user-attachments/assets/d9cdb98f-619b-496e-9adb-3bc42f055c5b" />
+
+
+# Quantization
+
+## Survey
+A Comprehensive Study on Quantization Techniques for Large Language Models
 
 
 ## huggingface optimum-quanto
