@@ -1,5 +1,5 @@
 
-# 1, Finetune 
+# 1, Fine-tuning 
 
 ## 1.1, Unsloth
 Train your own model with Unsloth, an open-source framework for LLM fine-tuning and reinforcement learning.
@@ -23,9 +23,9 @@ https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning
 
 
 
-# Inference 
+# 2, Inference 
 
-## huggingface optimum
+## 2.1, huggingface optimum
 https://github.com/huggingface/optimum
 
 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
@@ -33,7 +33,7 @@ https://github.com/huggingface/optimum
 Optimum is an extension of Transformers 🤖 Diffusers 🧨 TIMM 🖼️ and Sentence-Transformers 🤗, providing a set of optimization tools and enabling maximum efficiency to train and run models on targeted hardware, while keeping things easy to use.
 
 
-## sglang
+## 2.2, sglang
 SGLang is a fast serving framework for large language models and vision language models.
 
 https://github.com/sgl-project/sglang
@@ -42,7 +42,7 @@ https://github.com/sgl-project/sglang
 
 <img width="1281" height="651" alt="image" src="https://github.com/user-attachments/assets/b70fa506-df78-407f-846e-cf9297dbf4a3" />
 
-## TensorRT-LLM
+## 2.3, TensorRT-LLM
 https://github.com/NVIDIA/TensorRT-LLM
 
 TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
@@ -50,7 +50,7 @@ TensorRT LLM provides users with an easy-to-use Python API to define Large Langu
 <img width="1298" height="551" alt="image" src="https://github.com/user-attachments/assets/d3f8034e-562e-4d35-98cd-70a49532a0ad" />
 
 
-## vllm
+## 2.4, vllm
 https://github.com/vllm-project/vllm
 
 A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -61,15 +61,20 @@ A high-throughput and memory-efficient inference and serving engine for LLMs
 
 
 
-# LLM Quantization | GPTQ | QAT | AWQ | GGUF | GGML | PTQ
+# 3, LLM Quantization
 
+## 3.1, Survey
+A Comprehensive Study on Quantization Techniques for Large Language Models
+
+
+### LLM Quantization | GPTQ | QAT | AWQ | GGUF | GGML | PTQ
 <img width="878" height="430" alt="image" src="https://github.com/user-attachments/assets/977f6bd6-58a3-49d4-9ac1-dc7a244463be" />
 
 
 https://medium.com/@siddharth.vij10/llm-quantization-gptq-qat-awq-gguf-ggml-ptq-2e172cd1b3b5
 
 
-## bitsandbytes
+## 3.2, bitsandbytes
 
 https://github.com/bitsandbytes-foundation/bitsandbytes
 
@@ -87,13 +92,7 @@ The library includes quantization primitives for 8-bit & 4-bit operations, throu
 <img width="1166" height="1223" alt="image" src="https://github.com/user-attachments/assets/d9cdb98f-619b-496e-9adb-3bc42f055c5b" />
 
 
-# Quantization
-
-## Survey
-A Comprehensive Study on Quantization Techniques for Large Language Models
-
-
-## huggingface optimum-quanto
+## 3.3, huggingface optimum-quanto
 A pytorch quantization backend for optimum
 
 https://github.com/huggingface/optimum-quanto
@@ -102,7 +101,7 @@ https://github.com/huggingface/optimum-quanto
 
 
 
-## RWKV: Reinventing RNNs for the Transformer Era
+## 3.4, RWKV: Reinventing RNNs for the Transformer Era
 https://arxiv.org/pdf/2305.13048
 
 https://github.com/RWKV/rwkv.cpp
@@ -111,14 +110,14 @@ https://github.com/RWKV/rwkv.cpp
 <img width="846" height="1090" alt="image" src="https://github.com/user-attachments/assets/325f637e-91bd-4a7c-a91b-4d4e10edc037" />
 
 
-## Quantization formats
+## 3.5, Quantization formats
 
 https://bentoml.com/llm/getting-started/llm-quantization
 
 <img width="1224" height="755" alt="image" src="https://github.com/user-attachments/assets/45ab49d8-cce2-4c39-8c57-41b8913fda92" />
 
 
-## AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+### AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 
 <img width="2016" height="462" alt="image" src="https://github.com/user-attachments/assets/9601966e-0180-4388-bf2b-68d93b75d06e" />
 
@@ -126,7 +125,7 @@ https://bentoml.com/llm/getting-started/llm-quantization
 https://github.com/mit-han-lab/llm-awq
 
 
-## GPTQModel
+## 3.6, GPTQModel
 LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
 
 https://github.com/ModelCloud/GPTQModel
