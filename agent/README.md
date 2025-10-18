@@ -1,3 +1,14 @@
+# Agent 2.0 / Deep Agents
+
+https://www.philschmid.de/agents-2.0-deep-agents
+
+<img width="1548" height="1114" alt="image" src="https://github.com/user-attachments/assets/8de57ef4-2746-4363-9801-52d8ec178d8c" />
+
+
+A Deep Agent Flow
+
+![Uploading image.png…]()
+
 
 # RAG vs. Agentic RAG
 
