@@ -100,17 +100,7 @@ https://github.com/huggingface/optimum-quanto
 <img width="1289" height="974" alt="image" src="https://github.com/user-attachments/assets/09e92133-d062-4f7a-b566-afb6efb2dcbd" />
 
 
-
-## 3.4, RWKV: Reinventing RNNs for the Transformer Era
-https://arxiv.org/pdf/2305.13048
-
-https://github.com/RWKV/rwkv.cpp
-
-
-<img width="846" height="1090" alt="image" src="https://github.com/user-attachments/assets/325f637e-91bd-4a7c-a91b-4d4e10edc037" />
-
-
-## 3.5, Quantization formats
+## 3.5, Quantization Techniques
 
 https://bentoml.com/llm/getting-started/llm-quantization
 
@@ -124,6 +114,12 @@ https://bentoml.com/llm/getting-started/llm-quantization
 
 https://github.com/mit-han-lab/llm-awq
 
+### SmoothQuant
+
+https://arxiv.org/pdf/2211.10438
+
+
+
 
 ## 3.6, GPTQModel
 LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
@@ -136,4 +132,15 @@ https://github.com/ModelCloud/GPTQModel
 
 
 
+# 4, Optimizating Transformers
 
+## 4.1, RWKV: Reinventing RNNs for the Transformer Era
+https://arxiv.org/pdf/2305.13048
+
+https://github.com/RWKV/rwkv.cpp
+
+
+<img width="846" height="1090" alt="image" src="https://github.com/user-attachments/assets/325f637e-91bd-4a7c-a91b-4d4e10edc037" />
+
+
+## 4.2, 
