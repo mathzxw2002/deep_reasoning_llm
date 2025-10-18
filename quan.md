@@ -102,4 +102,15 @@ https://bentoml.com/llm/getting-started/llm-quantization
 https://github.com/mit-han-lab/llm-awq
 
 
-## 
+## GPTQModel
+LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
+
+https://github.com/ModelCloud/GPTQModel
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae6d9c87-595b-4d8e-89dd-072ace03a5e6" />
+
+<img width="1279" height="1121" alt="image" src="https://github.com/user-attachments/assets/ff4256ff-d95c-45a7-b057-25d208d7c489" />
+
+
+
+
