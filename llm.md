@@ -1,5 +1,5 @@
 
-# Lectures
+# Lectures (Visual Guides Series by Jay Alammar & Maarten Grootendorst)
 
 ## A Visual Guide to Reasoning LLMs
 Exploring Test-Time Compute Techniques and DeepSeek-R1
@@ -17,8 +17,24 @@ Demystifying the role of MoE in Large Language Models
 <img width="1456" height="638" alt="image" src="https://github.com/user-attachments/assets/ddf1facc-c8cd-4762-ac49-c0ce69e9e396" />
 
 
-## 
+## A Visual Guide to LLM Agents
+Exploring the main components of Single- and Multi-Agents
 
+https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents
+
+<img width="1360" height="972" alt="image" src="https://github.com/user-attachments/assets/8e9e5dd8-4517-4d0b-8375-b9c127f8677d" />
+
+
+## A Visual Guide to Mamba and State Space Models
+An Alternative to Transformers for Language Modeling
+
+https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state
+
+<img width="6046" height="2398" alt="image" src="https://github.com/user-attachments/assets/43934eca-4844-4256-b9b8-ec122f6ff1ca" />
+
+https://github.com/state-spaces/mamba
+
+##
 
 # The Big LLM Architecture Comparison
 
