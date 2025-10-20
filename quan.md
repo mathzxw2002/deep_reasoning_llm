@@ -1,4 +1,7 @@
-# 0 Distilling
+# 0, Distilling
+
+https://github.com/modelscope/easydistill
+
 
 
 # 1, Fine-tuning 
