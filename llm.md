@@ -34,7 +34,16 @@ https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state
 
 https://github.com/state-spaces/mamba
 
-##
+## A Visual Guide to Quantization
+Demystifying the Compression of Large Language Models
+
+<img width="1144" height="856" alt="image" src="https://github.com/user-attachments/assets/e13f2662-b7b3-4809-a19b-1ecac0154292" />
+
+## The Illustrated DeepSeek-R1
+A recipe for reasoning LLMs
+
+<img width="1456" height="634" alt="image" src="https://github.com/user-attachments/assets/2c3f8b6f-943d-4e90-8cdc-bd05061525ec" />
+
 
 # The Big LLM Architecture Comparison
 
