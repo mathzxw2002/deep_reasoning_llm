@@ -19,6 +19,12 @@ https://neurips.cc/virtual/2024/tutorial/99531
 
 # LLM Training Framework
 
+## llm-foundry
+https://github.com/mosaicml/llm-foundry
+
+<img width="1106" height="454" alt="image" src="https://github.com/user-attachments/assets/0e536b60-2ce4-4e25-b025-7e0ca141208a" />
+
+
 ## LLaMA-Factory
 https://github.com/hiyouga/LLaMA-Factory
 <img width="1400" height="400" alt="image" src="https://github.com/user-attachments/assets/d07b207b-7882-4de7-a376-f5d155d244a8" />
