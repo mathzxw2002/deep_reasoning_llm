@@ -13,6 +13,10 @@ https://neurips.cc/virtual/2024/tutorial/99531
 
 https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview
 
+<img width="1338" height="927" alt="image" src="https://github.com/user-attachments/assets/5e3453cf-b9c9-4194-b50f-2eef8bca1209" />
+
+https://www.youtube.com/watch?v=1E8GDR8QXKw
+
 
 
 # TODO
