@@ -6,8 +6,13 @@ https://www.runoob.com/docker/docker-command-manual.html
 # Mu Li
 https://github.com/mli/paper-reading?tab=readme-ov-file
 
-#Flow Mathcing
+# Flow Mathcing
 https://neurips.cc/virtual/2024/tutorial/99531
+
+# Training LLM on GPU Clusters
+
+https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview
+
 
 
 # TODO
